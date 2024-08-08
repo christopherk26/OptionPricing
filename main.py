@@ -173,7 +173,7 @@ def plot_heatmap(bs_model, share_range, vol_range, strike):
 
 # Main Page for Output Display
 st.title("Black-Scholes Pricing Model")
-st.write("""See how option contracts vary in prices based off of the parameters of the Black-Scholes equation
+st.write("""See how option contracts vary in prices based off of the parameters of the Black-Scholes equation.
          The Black-Sholes equation is a partial differential equation that, when solved,
          gives an explicit price for an option contract in terms of the 
          strike price, current asset price, the time to maturity,
