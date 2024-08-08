@@ -177,7 +177,7 @@ st.write("""See how option contracts vary in prices based off of the parameters 
          The Black-Sholes equation is a partial differential equation that, when solved,
          gives an explicit price for an option contract in terms of the 
          strike price, current asset price, the time to maturity,
-         the risk free interest rate, and the volitity of the asset (sigma) These values
+         the risk free interest rate, and the volitity of the asset (sigma). These values
          can be adjusted on the menu on the left side.""")
 
 
